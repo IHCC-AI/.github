@@ -6,7 +6,7 @@ If you would like to add anything to this doc, feel free to do a PR.
 ## Table of Contents
 
 - [Install Software](#install-software)
-- [Essay Guidelines]()
+- [Essay Guidelines](#essay-guidelines)
 
 ## Install Software
 
